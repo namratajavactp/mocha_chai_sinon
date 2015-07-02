@@ -1,0 +1,16 @@
+http://attackofzach.com/setting-up-a-project-using-karma-with-mocha-and-chai/
+
+
+all chai assertions:
+https://gist.github.com/patocallaghan/6154431
+http://sinonjs.org/docs/#spies
+http://chaijs.com/plugins/sinon-chai
+http://ricostacruz.com/cheatsheets/chai.html
+
+
+spies,mocks and stubs
+http://jaketrent.com/post/sinon-spies-vs-stubs/
+
+
+extra
+https://github.com/chaijs/chai-stats

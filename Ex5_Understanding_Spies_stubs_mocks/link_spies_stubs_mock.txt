@@ -1,0 +1,2 @@
+http://jaketrent.com/post/sinon-spies-vs-stubs/
+http://www.kenpowers.net/blog/advanced-features-in-sinon/
